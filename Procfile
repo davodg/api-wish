@@ -1,0 +1,1 @@
+web: gunicorn wishlist_api.wsgi
