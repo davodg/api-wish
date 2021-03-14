@@ -48,3 +48,4 @@
 </h1>
 
 <p align="center">O endpoint /random/ retorna aleatóriamente um item da lista</p>
+<p align="center">E para deletar um item basta usar o método DELETE de /wishes/ e passar o id do item a ser deletado</p>
